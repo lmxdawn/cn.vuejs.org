@@ -45,7 +45,7 @@ order: 402
   <div>This will be pre-compiled</div>
 </template>
 <script src="./my-component.js"></script>
-<style src="./my-component.css"></style>
+<style rel="./my-component.css"></style>
 ```
 
 ## 起步
